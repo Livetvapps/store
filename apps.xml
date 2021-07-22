@@ -23,36 +23,14 @@
     </item>
     <item>
         <id>3</id>
-        <cat>2. Recommended Players</cat>
-        <name>IPTV Smarters Pro v2.2.6</name>
-        <source>http://nwgroup.net/downloads/IPTV_Smarters_Pro_2.2.6.apk</source>
-        <imge>https://i.imgur.com/K22qDGn.png</imge>
-        <desc>Updated: 18-Feb-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
+        <cat>3. LiveStreamZ XC Player</cat>
+        <name>LiveStreamZ XC Player (Version 1) (Recommended)</name>
+        <source>https://www.dropbox.com/s/16che7r225kvtg6/LiveStreamZ%20XC%20v1.apk?dl=1</source>
+        <imge>https://www.dropbox.com/s/g2epfblx65bdu3m/11%20%281%29.jpg?dl=1</imge>
+        <desc>Updated: 27-July-2021      [89.3mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation.</desc>
         <vers></vers>
         <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
-    </item>
-    <item>
-        <id>5</id>
-        <cat>2. Recommended Players</cat>
-        <name>XCIPTV Player v5.0.1</name>
-        <source>http://nwgroup.net/downloads/XCIPTV_5.0.1-Clean.apk</source>
-        <imge>https://i.imgur.com/T2wF1HS.png</imge>
-        <desc>Updated: 23-Apr-2021      [88.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation. XCIPTV is using ExoPlayer and VLC Player. Easy to navigate using Android TV Remote and Dpad. This app can be installed on Android Phone, Tablet and TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyMy1BcHItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg4LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLiBYQ0lQVFYgaXMgdXNpbmcgRXhvUGxheWVyIGFuZCBWTEMgUGxheWVyLiBFYXN5IHRvIG5hdmlnYXRlIHVzaW5nIEFuZHJvaWQgVFYgUmVtb3RlIGFuZCBEcGFkLiBUaGlzIGFwcCBjYW4gYmUgaW5zdGFsbGVkIG9uIEFuZHJvaWQgUGhvbmUsIFRhYmxldCBhbmQgVFYu</base64>
-    </item>
-    <item>
-        <id>6</id>
-        <cat>3. IPTV Smarters Pro</cat>
-        <name>Default v2.2.6 (Recommended)</name>
-        <source>http://nwgroup.net/downloads/IPTV_Smarters_Pro_2.2.6.apk</source>
-        <imge>https://i.imgur.com/K22qDGn.png</imge>
-        <desc>Updated: 18-Feb-2021      [69.8mb] With IPTV Smarters Pro you can watch Live, Movies, Series, and TV Catup from IPTV Service Provider on Android Phone, Android Boxes, Fire TV Sticks, Nvidia Shield TV.</desc>
-        <vers></vers>
-        <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzY5LjhtYl0gV2l0aCBJUFRWIFNtYXJ0ZXJzIFBybyB5b3UgY2FuIHdhdGNoIExpdmUsIE1vdmllcywgU2VyaWVzLCBhbmQgVFYgQ2F0dXAgZnJvbSBJUFRWIFNlcnZpY2UgUHJvdmlkZXIgb24gQW5kcm9pZCBQaG9uZSwgQW5kcm9pZCBCb3hlcywgRmlyZSBUViBTdGlja3MsIE52aWRpYSBTaGllbGQgVFYu</base64>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6I2YyZTkxNTs+PHN0cm9uZz5VcGRhdGVkOiAxOC1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg5LjNtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLg==</base64>
     </item>
     <item>
         <id>7</id>
