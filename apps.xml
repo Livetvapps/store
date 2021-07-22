@@ -1,7 +1,7 @@
 <items>
     <item>
         <id>1</id>
-        <cat>1. LiveStreamZ Cinema Players</cat>
+        <cat>1. LiveStreamZ Applications</cat>
         <name>CineStreamZ</name>
         <source>https://www.dropbox.com/s/ujvv3s4fkgmcbry/CineStreamZ.apk?dl=1</source>
         <imge>https://imgur.com/a/REvoN0T</imge>
@@ -12,7 +12,7 @@
     </item>
     <item>
         <id>2</id>
-        <cat>3. LiveStreamZ Applications</cat>
+        <cat>1. LiveStreamZ Applications</cat>
         <name>LiveStreamZ VPN v2.7.1.4</name>
         <source>http://nwgroup.net/downloads/GlobalVpn-2.7.1.4.apk</source>
         <imge>https://i.imgur.com/LkziDkz.png</imge>
