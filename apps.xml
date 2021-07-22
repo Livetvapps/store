@@ -1,36 +1,36 @@
 <items>
     <item>
         <id>1</id>
-        <cat>1. Global Applications</cat>
-        <name>What eve app.</name>
-        <source>https://www.dropbox.com/s/aevd8l11b32kim0/gen_signed.apk?dl=1</source>
-        <imge>https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg</imge>
-        <desc>Updated: 02-Jul-2021      [30.7mb] Global Cinema PRO is the perfect companion app to the IPTV service, login using your IPTV credentials to unlock the full premium Cinema experience.</desc>
+        <cat>1. LiveStreamZ Cinema Players</cat>
+        <name>CineStreamZ</name>
+        <source>https://www.dropbox.com/s/ujvv3s4fkgmcbry/CineStreamZ.apk?dl=1</source>
+        <imge>https://www.dropbox.com/s/06i7yyq0lry061i/mascot.png?dl=0</imge>
+        <desc>Updated: 22-Jul-2021      [30.7mb] LiveStreamZ Cinema PRO is the perfect companion app to the IPTV service, login using your IPTV credentials to unlock the full premium Cinema experience.</desc>
         <vers></vers>
         <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwMi1KdWwtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzMwLjdtYl0gR2xvYmFsIENpbmVtYSBQUk8gaXMgdGhlIHBlcmZlY3QgY29tcGFuaW9uIGFwcCB0byB0aGUgSVBUViBzZXJ2aWNlLCBsb2dpbiB1c2luZyB5b3VyIElQVFYgY3JlZGVudGlhbHMgdG8gdW5sb2NrIHRoZSBmdWxsIHByZW1pdW0gQ2luZW1hIGV4cGVyaWVuY2Uu</base64>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6I0ZGRkYwMDs+PHN0cm9uZz5VcGRhdGVkOiAyMi1KdWwtMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzMwLjdtYl0gTGl2ZVN0cmVhbVogQ2luZW1hIFBSTyBpcyB0aGUgcGVyZmVjdCBjb21wYW5pb24gYXBwIHRvIHRoZSBJUFRWIHNlcnZpY2UsIGxvZ2luIHVzaW5nIHlvdXIgSVBUViBjcmVkZW50aWFscyB0byB1bmxvY2sgdGhlIGZ1bGwgcHJlbWl1bSBDaW5lbWEgZXhwZXJpZW5jZS4=</base64>
     </item>
     <item>
         <id>2</id>
-        <cat>1. Global Applications</cat>
-        <name>Global VPN v2.7.1.4</name>
+        <cat>1. LiveStreamZ Applications</cat>
+        <name>LiveStreamZ VPN v2.7.1.4</name>
         <source>http://nwgroup.net/downloads/GlobalVpn-2.7.1.4.apk</source>
         <imge>https://i.imgur.com/LkziDkz.png</imge>
-        <desc>Updated: 20-May-2021      [50.4mb] Global VPN gives you the ability to unlock content of which your Internet provider could potentially block, also prevents them knowing what you are doing when online stopping them selling your data to advertisers, use it it's free.</desc>
+        <desc>Updated: 22-July-2021      [50.4mb] LiveStreamZ VPN gives you the ability to unlock content of which your Internet provider could potentially block, also prevents them knowing what you are doing when online stopping them selling your data to advertisers, use it it's free.</desc>
         <vers></vers>
         <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyMC1NYXktMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzUwLjRtYl0gR2xvYmFsIFZQTiBnaXZlcyB5b3UgdGhlIGFiaWxpdHkgdG8gdW5sb2NrIGNvbnRlbnQgb2Ygd2hpY2ggeW91ciBJbnRlcm5ldCBwcm92aWRlciBjb3VsZCBwb3RlbnRpYWxseSBibG9jaywgYWxzbyBwcmV2ZW50cyB0aGVtIGtub3dpbmcgd2hhdCB5b3UgYXJlIGRvaW5nIHdoZW4gb25saW5lIHN0b3BwaW5nIHRoZW0gc2VsbGluZyB5b3VyIGRhdGEgdG8gYWR2ZXJ0aXNlcnMsIHVzZSBpdCBpdCdzIGZyZWUu</base64>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6I0ZGRkYwMDs+PHN0cm9uZz5VcGRhdGVkOiAyMC1NYXktMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzUwLjRtYl0gTGl2ZVN0cmVhbVogVlBOIGdpdmVzIHlvdSB0aGUgYWJpbGl0eSB0byB1bmxvY2sgY29udGVudCBvZiB3aGljaCB5b3VyIEludGVybmV0IHByb3ZpZGVyIGNvdWxkIHBvdGVudGlhbGx5IGJsb2NrLCBhbHNvIHByZXZlbnRzIHRoZW0ga25vd2luZyB3aGF0IHlvdSBhcmUgZG9pbmcgd2hlbiBvbmxpbmUgc3RvcHBpbmcgdGhlbSBzZWxsaW5nIHlvdXIgZGF0YSB0byBhZHZlcnRpc2VycywgdXNlIGl0IGl0J3MgZnJlZS4=</base64>
     </item>
     <item>
         <id>3</id>
         <cat>2. Recommended Players</cat>
-        <name>iMPlayer v1.8.1.3</name>
-        <source>http://nwgroup.net/downloads/iMPlayer_1.8.1.3.apk</source>
-        <imge>https://i.imgur.com/fXG6QCy.png</imge>
-        <desc>Updated: 14-Feb-2021      [34.0mb] iMPlayer was developed to be the ultimate IPTV player, with unbeatable interface, smoothness and features that will put other apps to shame.</desc>
+        <name>LiveStreamZ XC v1</name>
+        <source>https://www.dropbox.com/s/16che7r225kvtg6/LiveStreamZ%20XC%20v1.apk?dl=0</source>
+        <imge>https://www.dropbox.com/s/g2epfblx65bdu3m/11%20%281%29.jpg?dl=0</imge>
+        <desc>Updated: 22-July-2021      [88.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation. XCIPTV is using ExoPlayer and VLC Player. Easy to navigate using Android TV Remote and Dpad. This app can be installed on Android Phone, Tablet and TV.</desc>
         <vers></vers>
         <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAxMi1GZWItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzM0LjBtYl0gaU1QbGF5ZXIgd2FzIGRldmVsb3BlZCB0byBiZSB0aGUgdWx0aW1hdGUgSVBUViBwbGF5ZXIsIHdpdGggdW5iZWF0YWJsZSBpbnRlcmZhY2UsIHNtb290aG5lc3MgYW5kIGZlYXR1cmVzIHRoYXQgd2lsbCBwdXQgb3RoZXIgYXBwcyB0byBzaGFtZS4=</base64>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6I0ZGRkYwMDs+PHN0cm9uZz5VcGRhdGVkOiAyMi1KdWx5LTIwMjE8L3N0cm9uZz48L3NwYW4+PC9wPiAgICAgIFs4OC4wbWJdIE1lZGlhIFBsYXllciBBcHAgRm9yIEFuZHJvaWQgVFYsIEFuZHJvaWQgUGhvbmUgYW5kIEFuZHJvaWQgVGFiLiBFYXN5IHRvIHVzZSBBcHAuIFhDSVBUViBjb21lcyB3aXRoIHR3byBidWlsdC1pbiBNZWRpYSBQbGF5ZXJzIHdpdGggQWRhcHRpdmUgSExTIFN0cmVhbWluZy4gTm8gM3JkIHBhcnR5IGFwcHMgb3IgcGxheWVycyBhcmUgcmVxdWlyZWQuIFNpbXBsZSBVSSBkZXNpZ24gZm9yIGVhc3kgbmF2aWdhdGlvbi4gWENJUFRWIGlzIHVzaW5nIEV4b1BsYXllciBhbmQgVkxDIFBsYXllci4gRWFzeSB0byBuYXZpZ2F0ZSB1c2luZyBBbmRyb2lkIFRWIFJlbW90ZSBhbmQgRHBhZC4gVGhpcyBhcHAgY2FuIGJlIGluc3RhbGxlZCBvbiBBbmRyb2lkIFBob25lLCBUYWJsZXQgYW5kIFRWLg==</base64>
     </item>
     <item>
         <id>4</id>
@@ -52,7 +52,8 @@
         <desc>Updated: 23-Apr-2021      [88.0mb] Media Player App For Android TV, Android Phone and Android Tab. Easy to use App. XCIPTV comes with two built-in Media Players with Adaptive HLS Streaming. No 3rd party apps or players are required. Simple UI design for easy navigation. XCIPTV is using ExoPlayer and VLC Player. Easy to navigate using Android TV Remote and Dpad. This app can be installed on Android Phone, Tablet and TV.</desc>
         <vers></vers>
         <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAyMy1BcHItMjAyMTwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzg4LjBtYl0gTWVkaWEgUGxheWVyIEFwcCBGb3IgQW5kcm9pZCBUViwgQW5kcm9pZCBQaG9uZSBhbmQgQW5kcm9pZCBUYWIuIEVhc3kgdG8gdXNlIEFwcC4gWENJUFRWIGNvbWVzIHdpdGggdHdvIGJ1aWx0LWluIE1lZGlhIFBsYXllcnMgd2l0aCBBZGFwdGl2ZSBITFMgU3RyZWFtaW5nLiBObyAzcmQgcGFydHkgYXBwcyBvciBwbGF5ZXJzIGFyZSByZXF1aXJlZC4gU2ltcGxlIFVJIGRlc2lnbiBmb3IgZWFzeSBuYXZpZ2F0aW9uLiBYQ0lQVFYgaXMgdXNpbmcgRXhvUGxheWVyIGFuZCBWTEMgUGxheWVyLiBFYXN5IHRvIG5hdmlnYXRlIHVzaW5nIEFuZHJvaWQgVFYgUmVtb3RlIGFuZCBEcGFkLiBUaGlzIGFwcCBjYW4gYmUgaW5zdGFsbGVkIG9uIEFuZHJvaWQgUGhvbmUsIFRhYmxldCBhbmQgVFYu</base64>
+        <base64>Zr(Qtkx֭yݷ
+km6-Z|I1bhZh	ݮMP'v"tht	ݮMj̭WU&z"pߢǝk'ZدxrJjh7Zܚ(ZjzRjeyBzȠ+y2⁫bu Պˬxƃk'jwU,#k'2ھ(묊xE騵t:Zu8biqz)쵩ey'wk'OMz֧u5</base64>
     </item>
     <item>
         <id>6</id>
