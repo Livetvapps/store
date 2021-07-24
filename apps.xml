@@ -45,25 +45,25 @@
     </item>
     <item>
         <id>10</id>
-        <cat>4. TiviMate IPTV Player</cat>
-        <name>Default v2.7.0</name>
+        <cat>4. LiveStreamZ (Other TV Players</cat>
+        <name>LiveStreamZ Tivimate</name>
         <source>http://nwgroup.net/downloads/TiviMate_2.7.0.apk</source>
         <imge>https://i.imgur.com/DYWj2KS.png</imge>
-        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
+        <desc>Updated: 24-Jul-2021      [21.0mb] With TiviMate you can watch live TV channels on Android set-top boxes.</desc>
         <vers></vers>
         <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6I2YyZTkxNTs+PHN0cm9uZz5VcGRhdGVkOiAyNC1KdWx5LTIwMjE8L3N0cm9uZz48L3NwYW4+PC9wPiAgICAgIFsyMS4wbWJdIFdpdGggVGl2aU1hdGUgeW91IGNhbiB3YXRjaCBsaXZlIFRWIGNoYW5uZWxzIG9uIEFuZHJvaWQgc2V0LXRvcCBib3hlcy4=</base64>
     </item>
     <item>
         <id>11</id>
-        <cat>4. TiviMate IPTV Player</cat>
-        <name>Sky Theme v2.1.5</name>
-        <source>http://nwgroup.net/downloads/TiviMate_2.1.5-Sky.apk</source>
-        <imge>https://i.imgur.com/VnvoS9K.png</imge>
-        <desc>Updated: 05-Apr-2020      [21.0mb] With TiviMate you can watch live TV channels from your IPTV provider on Android set-top boxes.</desc>
+        <cat>4. LiveStreamZ (Other TV Players)</cat>
+        <name>LiveStreamZ Platinum</name>
+        <source>https://www.dropbox.com/s/402ll0d853dh6b6/LiveStreamZ%20Platinum.apk?dl=1</source>
+        <imge>https://www.dropbox.com/s/jjt30h2teg6bums/Logo%202.jpg?dl=1</imge>
+        <desc>Updated: 24-Jul-2021      [21.0mb] LiveStreamZ OTT Platinum is a highend tv viewing application.</desc>
         <vers></vers>
         <vidz></vidz>
-        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6IzE2NDM2Nzs+PHN0cm9uZz5VcGRhdGVkOiAwNS1BcHItMjAyMDwvc3Ryb25nPjwvc3Bhbj48L3A+ICAgICAgWzIxLjBtYl0gV2l0aCBUaXZpTWF0ZSB5b3UgY2FuIHdhdGNoIGxpdmUgVFYgY2hhbm5lbHMgZnJvbSB5b3VyIElQVFYgcHJvdmlkZXIgb24gQW5kcm9pZCBzZXQtdG9wIGJveGVzLg==</base64>
+        <base64>PHA+PHNwYW4gc3R5bGU9Y29sb3I6I2YyZTkxNTs+PHN0cm9uZz5VcGRhdGVkOiAyNC1KdWx5LTIwMjE8L3N0cm9uZz48L3NwYW4+PC9wPiAgICAgIFsyMS4wbWJdIExpdmVTdHRyZWFtWiBPVFQgUGxhdGludW0gaXMgYSBoaWdoZW5kIHR2IHZpZXdpbmcgYXBwbGljYXRpb24u</base64>
     </item>
     <item>
         <id>12</id>
